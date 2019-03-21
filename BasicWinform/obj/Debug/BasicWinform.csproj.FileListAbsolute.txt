@@ -1,0 +1,11 @@
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\bin\Debug\BasicWinform.exe.config
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\bin\Debug\BasicWinform.exe
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\bin\Debug\BasicWinform.pdb
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\obj\Debug\BasicWinform.Form1.resources
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\obj\Debug\BasicWinform.Form2.resources
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\obj\Debug\BasicWinform.Properties.Resources.resources
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\obj\Debug\BasicWinform.csproj.GenerateResource.cache
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\obj\Debug\BasicWinform.csproj.CoreCompileInputs.cache
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\obj\Debug\BasicWinform.exe
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\obj\Debug\BasicWinform.pdb
+C:\Users\huang_jianhua0101\source\repos\CallCenter\BasicWinform\obj\Debug\BasicWinform.csprojAssemblyReference.cache

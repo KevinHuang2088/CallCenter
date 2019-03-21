@@ -1,0 +1,11 @@
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\bin\Debug\CallCenter.exe.config
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\bin\Debug\CallCenter.exe
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\bin\Debug\CallCenter.pdb
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.csprojAssemblyReference.cache
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.Properties.Resources.resources
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.GenerateResource.cache
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.csproj.CoreCompileInputs.cache
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.exe
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.pdb
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.FormLogin.resources
+C:\Users\huang_jianhua0101\source\repos\CallCenter\CallCenter\obj\Debug\CallCenter.Resource1.resources
