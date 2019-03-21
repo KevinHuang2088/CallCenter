@@ -69,5 +69,14 @@ namespace CallCenter {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to System Maintenance.
+        /// </summary>
+        internal static string 系统维护 {
+            get {
+                return ResourceManager.GetString("系统维护", resourceCulture);
+            }
+        }
     }
 }

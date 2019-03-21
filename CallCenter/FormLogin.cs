@@ -15,6 +15,7 @@ namespace CallCenter
         public FormLogin()
         {
             InitializeComponent();
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -32,6 +33,12 @@ namespace CallCenter
             {
                 MessageBox.Show("UserName or Passaord is wrong!","Alert!");
             }
+        }
+
+        private void FormLogin_Load(object sender, EventArgs e)
+        {
+            this.textBox1.Text = "030216";
+            this.textBox2.Text = "303622";
         }
     }
 }
