@@ -101,5 +101,8 @@
   <ItemGroup>
     <None Include="Resources\wuxi.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favicon-20190322095939244.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
